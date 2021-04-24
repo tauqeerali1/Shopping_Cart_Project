@@ -1,6 +1,6 @@
  <?php   
  session_start();  
- $connect = mysqli_connect("localhost", "root", "9636463361", "test");  
+ $connect = mysqli_connect("localhost", "root", "", "test");  
  if(isset($_POST["add_to_cart"]))  
  {  
       if(isset($_SESSION["shopping_cart"]))  
@@ -80,7 +80,7 @@ if(isset($_POST['search']))
 // function to connect and execute the query
 function filterTable($query)
 {
-    $connect = mysqli_connect("localhost", "root", "9636463361", "test");
+    $connect = mysqli_connect("localhost", "root", "", "test");
     $filter_Result = mysqli_query($connect, $query);
     return $filter_Result;
 }
