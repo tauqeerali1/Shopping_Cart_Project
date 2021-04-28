@@ -129,7 +129,7 @@
 <br />
            <section class="split2">
             <div class="container" style="width:700px;">
-                <h3 align="center">All Product</h3><br />
+                <h3 align="center">All Product Are Here</h3><br />
                 <?php
                 $query = "SELECT * FROM tbl_product ORDER BY id ASC";
                 $result = mysqli_query($connect, $query);
