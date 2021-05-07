@@ -1,3 +1,3 @@
 # GCCSRM-Shopping_Cart_Project
-## Search Products
-## Add to Cart
+*Search Products *
+*Add to Cart*
