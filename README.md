@@ -1,3 +1,3 @@
 # GCCSRM-Online Shopping_Cart
-* Search Products
+* Search products
 * Add to Cart
