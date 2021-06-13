@@ -88,7 +88,7 @@
               <option value="">Select Filter</option>
               <option value="name">Name</option>
               <option value="price">Price</option>
-              <option value="product">product</option>
+              <option value="product">Product</option>
           </select>
       <input type="submit" name="search" value="Search">
       <p>Search by <span style="color: red;">Product Company, Product Name & Price</span></p><br><br>
