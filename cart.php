@@ -87,7 +87,7 @@
             <select name="column">
               <option value="">Select Filter</option>
               <option value="name">Name</option>
-              <option value="price">price</option>
+              <option value="price">Price</option>
               <option value="product">product</option>
           </select>
       <input type="submit" name="search" value="Search">
