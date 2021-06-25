@@ -19,7 +19,7 @@
            }
            else
            {
-                echo '<script>alert("Item Already Added")</script>';
+                echo '<script>alert("Item Already added")</script>';
                 echo '<script>window.location="cart.php"</script>';
            }
       }
