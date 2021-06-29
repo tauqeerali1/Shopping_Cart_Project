@@ -85,7 +85,7 @@
           <form action="cart.php" method="post">
             <input type="text" name="q" placeholder="Search Product Here...">
             <select name="column">
-              <option value="">Select filter</option>
+              <option value="">Select Filter</option>
               <option value="name">Name</option>
               <option value="price">Price</option>
               <option value="product">Product</option>
