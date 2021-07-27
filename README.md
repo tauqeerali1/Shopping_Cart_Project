@@ -1,3 +1,3 @@
-OnlineShopping_Cart
+OnlineShoppingCart
 * Search products
 * Add to Cart
